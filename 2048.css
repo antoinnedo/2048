@@ -95,3 +95,19 @@ hr {
     background-color: #ff2020;
     color: white;
 }
+
+.tile-merged {
+    animation: merge-animation 0.3s ease-in-out;
+}
+
+@keyframes merge-animation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
