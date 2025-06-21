@@ -10,7 +10,6 @@
 ### Gameplay Demo:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/511563c3-c80a-4e42-82f8-9f6a1a82ac8b"></img> 
+  <img src="https://github.com/user-attachments/assets/9485e6be-abdb-45a3-b21a-40fcd1470d7a"></img> 
 </p>
-
 
