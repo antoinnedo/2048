@@ -2,6 +2,12 @@
 
 ## Welcome to my version of 2048, made from pure Vanilla JavaScript.
 
+## <a href="https://antoinnedo.github.io/2048/">Try it out here!</a>
+
+### Tic Tac Toe functionalities:
+- Choose player name.
+- Restart game.
+
 ### Functionalities:
 - Save current gameplay (locally).
 - Load last gameplay.
